@@ -1,0 +1,11 @@
+*.o
+a.out
+mod_1/endian
+mod_1/sizeof
+mod_3/calc/calc
+mod_3/ex02/void_teste
+mod_3/ex03/void_troca
+mod_3/strings/ex01
+mod_3/strings/ex02
+mod_3/strings/ex04
+mod_3/strings/rascunho
